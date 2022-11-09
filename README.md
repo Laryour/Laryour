@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ogunja Funmilayo
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in every thing Data 
 - 🌱 I’m currently learning Data Analysis using Python
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 How to reach me: 07017983896
